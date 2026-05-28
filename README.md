@@ -43,7 +43,3 @@ python main.py
 ```
 
 ---
-
-## 🙌 Acknowledgment
-
-This project was developed as part of my Python Programming Internship at CodSoft.
